@@ -25,3 +25,21 @@ my collected resources for data science and machine learning
 
 ## Data Websites
 [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/)
+
+
+## some questions
+> Pandas has both isna() and isnull(). I usually use isnull() to detect missing values and have never met the case so that I had to use other than that. So, when to use isna()?
+### answer
+isnull is an alias for isna. Literally in the code source of pandas:
+```python
+isnull = isna
+```
+Indeed:
+```
+>>> pd.isnull
+<function isna at 0x7fb4c5cefc80>
+```
+So I would recommend using isna.
+
+
+[source](https://stackoverflow.com/questions/52086574/pandas-isna-and-isnull-what-is-the-difference)
