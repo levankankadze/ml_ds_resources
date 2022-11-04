@@ -14,10 +14,12 @@ my collected resources for data science and machine learning
 
 ## XGBoost
 [original Parallel Gradient Boosting Decision Trees](http://zhanpengfang.github.io/418home.html)
-
+[XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/index.html)
 [Complete Guide to Parameter Tuning in XGBoost with codes in Python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 
 ## Maths
 [A book to cover most of math needed for machine learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
 
+## Data Websites
+[UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/)
