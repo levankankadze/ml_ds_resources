@@ -1,6 +1,9 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## Blogs
+[Rishabh Shukla](http://rishy.github.io/)
+
 ## Glossaries
 [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
