@@ -4,6 +4,8 @@ my collected resources for data science and machine learning
 ## Glossaries
 [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 
+[Data Science](https://datasciencebook.ca/)
+
 ## Label Encoding
 [Label Encoder vs. One Hot Encoder in Machine Learning](https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
 
@@ -31,7 +33,7 @@ my collected resources for data science and machine learning
 
 ## Some questions
 > Pandas has both isna() and isnull(). I usually use isnull() to detect missing values and have never met the case so that I had to use other than that. So, when to use isna()?
-### answer
+### Answer
 isnull is an alias for isna. Literally in the code source of pandas:
 ```python
 isnull = isna
@@ -42,6 +44,12 @@ Indeed:
 <function isna at 0x7fb4c5cefc80>
 ```
 So I would recommend using isna.
-
-
 [source](https://stackoverflow.com/questions/52086574/pandas-isna-and-isnull-what-is-the-difference)
+
+----
+
+>Use Pipenv or other tools is recommended for improving your development flow.
+```python
+pip freeze > requirements.txt  # Python3
+```
+[source](https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt)
