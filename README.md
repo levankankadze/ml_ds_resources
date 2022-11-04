@@ -14,7 +14,9 @@ my collected resources for data science and machine learning
 
 ## XGBoost
 [original Parallel Gradient Boosting Decision Trees](http://zhanpengfang.github.io/418home.html)
+
 [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/index.html)
+
 [Complete Guide to Parameter Tuning in XGBoost with codes in Python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
 
