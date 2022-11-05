@@ -38,7 +38,19 @@ my collected resources for data science and machine learning
 
 
 ## Technical things
+
 [Anaconda Installation guide on Windows for Data Science](https://medium.com/@kiran.poudel/anaconda-installation-guide-on-windows-for-data-science-770eb18599c2)
+
+[](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
+
+[](https://towardsdatascience.com/a-data-scientists-guide-to-python-virtual-environments-858841922f14)
+
+[](https://towardsdatascience.com/setting-up-an-environment-for-machine-learning-with-conda-pip-tools-9e163cb13b92)
+
+[](https://www.folkstalk.com/2022/10/how-to-update-python-using-anaconda-conda-with-code-examples.html)
+
+[](https://towardsdatascience.com/pipenv-vs-conda-for-data-scientists-b9a372faf9d9)
+
 -----
 -----
 
