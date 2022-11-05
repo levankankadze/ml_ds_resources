@@ -9,6 +9,8 @@ my collected resources for data science and machine learning
 
 [Data Science](https://datasciencebook.ca/)
 
+[Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+
 ## Label Encoding
 [Label Encoder vs. One Hot Encoder in Machine Learning](https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
 
@@ -31,6 +33,12 @@ my collected resources for data science and machine learning
 ## Data Websites
 [UC Irvine Machine Learning Repository](https://archive-beta.ics.uci.edu/)
 
+## Tutorials
+[Data Science in VS Code tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
+
+
+## Technical things
+[Anaconda Installation guide on Windows for Data Science](https://medium.com/@kiran.poudel/anaconda-installation-guide-on-windows-for-data-science-770eb18599c2)
 -----
 -----
 
