@@ -1,6 +1,9 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## Data Science Interview 
+[Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)
+
 ## Blogs
 [Rishabh Shukla](http://rishy.github.io/)
 
@@ -51,6 +54,11 @@ my collected resources for data science and machine learning
 
 [](https://towardsdatascience.com/pipenv-vs-conda-for-data-scientists-b9a372faf9d9)
 
+[](https://www.machinelearningplus.com/deployment/conda-create-environment-and-everything-you-need-to-know-to-manage-conda-virtual-environment/)
+
+[](https://stackoverflow.com/questions/64500342/creating-requirements-txt-in-pip-compatible-format-in-a-conda-virtual-environmen)
+
+[](https://pythonforundergradengineers.com/new-virtual-environment-with-conda.html)
 -----
 -----
 
