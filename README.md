@@ -1,6 +1,14 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## Python
+[EPAM Python](https://learn.epam.com/detailsPage?id=dce9b895-d4fc-4fe7-9d4c-999fa095d533)
+
+[The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+
+## Markdown
+[Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
+
 ## Data Science Interview 
 [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)
 
@@ -41,6 +49,7 @@ my collected resources for data science and machine learning
 
 
 ## Technical things
+[https://cs231n.github.io/setup-instructions/]
 
 [Anaconda Installation guide on Windows for Data Science](https://medium.com/@kiran.poudel/anaconda-installation-guide-on-windows-for-data-science-770eb18599c2)
 
