@@ -1,6 +1,12 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## Various Tool
+[Deepnote](https://deepnote.com/)
+[Codepen](https://codepen.io/)
+
+[Normalization and Standardization in 2 Minutes](https://towardsdatascience.com/normalization-and-standardization-in-2-minutes-e0609a01e76)
+[Dimitris Effrosynidis-Normalization and Standardization](https://deffro.github.io/tutorials/normalization-standardization/)
 ## Python
 [EPAM Python](https://learn.epam.com/detailsPage?id=dce9b895-d4fc-4fe7-9d4c-999fa095d533)
 
@@ -93,3 +99,5 @@ So I would recommend using isna.
 pip freeze > requirements.txt  # Python3
 ```
 [source](https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt)
+
+
