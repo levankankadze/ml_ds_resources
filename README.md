@@ -3,6 +3,7 @@ my collected resources for data science and machine learning
 
 ## Various Tool
 [Deepnote](https://deepnote.com/)
+
 [Codepen](https://codepen.io/)
 
 [Normalization and Standardization in 2 Minutes](https://towardsdatascience.com/normalization-and-standardization-in-2-minutes-e0609a01e76)
@@ -53,6 +54,7 @@ my collected resources for data science and machine learning
 ## Tutorials
 [Data Science in VS Code tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
 
+[Introduction to Machine Learning](https://github.com/davifrossard/iml)
 
 ## Technical things
 [https://cs231n.github.io/setup-instructions/]
@@ -100,4 +102,9 @@ pip freeze > requirements.txt  # Python3
 ```
 [source](https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt)
 
+### 
+> Accuracy and precision
 
+Precision and accuracy are two ways that scientists think about error. Accuracy refers to how close a measurement is to the true or accepted value. Precision refers to how close measurements of the same item are to each other. Precision is independent of accuracy.
+
+[Alt text](image/precsionvsaccuracy_crashcourse-579x600.png)
