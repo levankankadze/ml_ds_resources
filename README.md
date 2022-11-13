@@ -1,6 +1,9 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## Courses
+[CS231n: Convolutional Neural Networks for Visual Recognition.](https://cs231n.github.io/)
+
 ## Various Tool
 [Deepnote](https://deepnote.com/)
 
