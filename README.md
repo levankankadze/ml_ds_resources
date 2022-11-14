@@ -82,6 +82,16 @@ my collected resources for data science and machine learning
 -----
 -----
 
+## Software
+### [Tensorflow](https://www.tensorflow.org/)
+>TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. TensorFlow was developed by the Google Brain team for internal Google use in research and production.
+
+### [Pytorch](https://pytorch.org/)
+>PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella. It is free and open-source software released under the modified BSD license.
+
+### [Keras](https://keras.io/)
+>Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. Up until version 2.3, Keras supported multiple backends, including TensorFlow, Microsoft Cognitive Toolkit, Theano, and PlaidML.
+
 ## Some questions
 > Pandas has both isna() and isnull(). I usually use isnull() to detect missing values and have never met the case so that I had to use other than that. So, when to use isna()?
 ### Answer
