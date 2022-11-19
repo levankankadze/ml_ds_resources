@@ -4,6 +4,10 @@ my collected resources for data science and machine learning
 ## Courses
 [CS231n: Convolutional Neural Networks for Visual Recognition.](https://cs231n.github.io/)
 
+[ML recipes](https://bipinkrishnan.github.io/ml-recipe-book/about.html)
+
+[Huggingface Course](https://huggingface.co/course/chapter1/1)
+
 ## Various Tool
 [Deepnote](https://deepnote.com/)
 
@@ -47,6 +51,7 @@ my collected resources for data science and machine learning
 
 [Complete Guide to Parameter Tuning in XGBoost with codes in Python](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
 
+[WHEN and WHY are batches used in machine learning ?](https://medium.com/analytics-vidhya/when-and-why-are-batches-used-in-machine-learning-acda4eb00763)
 
 ## Maths
 [A book to cover most of math needed for machine learning](https://www.cis.upenn.edu/~jean/math-deep.pdf)
@@ -91,6 +96,9 @@ my collected resources for data science and machine learning
 
 ### [Keras](https://keras.io/)
 >Keras is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. Up until version 2.3, Keras supported multiple backends, including TensorFlow, Microsoft Cognitive Toolkit, Theano, and PlaidML.
+
+### [Optuna](https://optuna.org/)
+>An open source hyperparameter optimization framework to automate hyperparameter search
 
 ## Some questions
 > Pandas has both isna() and isnull(). I usually use isnull() to detect missing values and have never met the case so that I had to use other than that. So, when to use isna()?
