@@ -100,6 +100,9 @@ my collected resources for data science and machine learning
 ### [Optuna](https://optuna.org/)
 >An open source hyperparameter optimization framework to automate hyperparameter search
 
+### [Ray](https://docs.ray.io/en/latest/tune/)
+> Ray Tune apart from the other hyperparameter optimization libraries. State of the art algorithms Maximize model performance and minimize training costs by using the latest algorithms such as PBT, HyperBAND, ASHA, and more.
+
 ## Some questions
 > Pandas has both isna() and isnull(). I usually use isnull() to detect missing values and have never met the case so that I had to use other than that. So, when to use isna()?
 ### Answer
