@@ -103,6 +103,11 @@ my collected resources for data science and machine learning
 ### [Ray](https://docs.ray.io/en/latest/tune/)
 > Ray Tune apart from the other hyperparameter optimization libraries. State of the art algorithms Maximize model performance and minimize training costs by using the latest algorithms such as PBT, HyperBAND, ASHA, and more.
 
+## Installing  tflite-runtime
+`pip install https://github.com/iCorv/tflite-runtime/raw/master/tflite_runtime-2.4.0-py3-none-any.whl `
+
+[Compiled TensorFlow lite runtime repository](https://github.com/iCorv/tflite-runtime)
+
 ## Some questions
 > Pandas has both isna() and isnull(). I usually use isnull() to detect missing values and have never met the case so that I had to use other than that. So, when to use isna()?
 ### Answer
