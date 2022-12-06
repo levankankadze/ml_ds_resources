@@ -2,6 +2,8 @@
 my collected resources for data science and machine learning
 
 ## Courses
+[CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+
 [CS231n: Convolutional Neural Networks for Visual Recognition.](https://cs231n.github.io/)
 
 [ML recipes](https://bipinkrishnan.github.io/ml-recipe-book/about.html)
