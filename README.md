@@ -1,6 +1,9 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## Models
+[PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models#models)
+
 ## Courses
 [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
