@@ -5,6 +5,8 @@ my collected resources for data science and machine learning
 [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models#models)
 
 ## Courses
+[EE 274: Data Compression, Theory and Applications](https://stanforddatacompressionclass.github.io/Fall22/lectures/)
+
 [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 
 [CS231n: Convolutional Neural Networks for Visual Recognition.](https://cs231n.github.io/)
