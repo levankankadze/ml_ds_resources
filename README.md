@@ -11,6 +11,8 @@ my collected resources for data science and machine learning
 
 [CS231n: Convolutional Neural Networks for Visual Recognition.](https://cs231n.github.io/)
 
+[Machine Learning for 3D Data cs468 - Spring 2017](https://graphics.stanford.edu/courses/cs468-17-spring/)
+
 [ML recipes](https://bipinkrishnan.github.io/ml-recipe-book/about.html)
 
 [Huggingface Course](https://huggingface.co/course/chapter1/1)
