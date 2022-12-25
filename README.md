@@ -1,6 +1,9 @@
 # ml_ds_resources
 my collected resources for data science and machine learning
 
+## definitions
+**cardinality** is defined as the number of elements in a set or other grouping.
+
 ## Models
 [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models#models)
 
