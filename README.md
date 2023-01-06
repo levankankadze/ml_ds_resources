@@ -119,6 +119,9 @@ my collected resources for data science and machine learning
 ### [Ray](https://docs.ray.io/en/latest/tune/)
 > Ray Tune apart from the other hyperparameter optimization libraries. State of the art algorithms Maximize model performance and minimize training costs by using the latest algorithms such as PBT, HyperBAND, ASHA, and more.
 
+### [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/)
+> LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient with the following advantages: Faster training speed and higher efficiency. Lower memory usage, Better accuracy, Support of parallel, distributed, and GPU learning, Capable of handling large-scale data.
+
 ## Installing  tflite-runtime
 `pip install https://github.com/iCorv/tflite-runtime/raw/master/tflite_runtime-2.4.0-py3-none-any.whl `
 
